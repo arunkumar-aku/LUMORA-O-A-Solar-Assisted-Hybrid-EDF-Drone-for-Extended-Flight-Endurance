@@ -73,13 +73,19 @@ ________________________________________
 4.	Complex power distribution requires robust electronics and fail-safes.
 5.	Higher initial costs due to hybrid systems and advanced components.
 ________________________________________
-8.Drone Design:
+
+Drone Design:
           
 Top view         Front view              inclined view
+<img width="169" height="145" alt="image" src="https://github.com/user-attachments/assets/6abebfd6-6b7a-41ef-9205-88cd69405ec8" />
+Front view
+<img width="294" height="134" alt="image" src="https://github.com/user-attachments/assets/7224ca08-8205-4a62-bfae-a165b29d01aa" />
+inclined view
+<img width="203" height="148" alt="image" src="https://github.com/user-attachments/assets/79c02c54-476d-4cd1-8522-1dadbd3f6981" />
 
 
 9. Cost Analysis
-Component	Quantity	Approx. Cost (₹)	Remarks
+Component	Quantity	 Approx   Cost (₹)	    Remarks
 EDF Motors (×8)	 8	53,760	High-thrust EDFs for sustained lift
 
 ESCs (×8)	8	 20,160	Suitable for high-current handling
