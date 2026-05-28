@@ -80,17 +80,29 @@ Top view         Front view              inclined view
 
 9. Cost Analysis
 Component	Quantity	Approx. Cost (₹)	Remarks
-EDF Motors (×8)	8	53,760	High-thrust EDFs for sustained lift
-ESCs (×8)	8	20,160	Suitable for high-current handling
-LiPo Battery (6S)	1	10,080	High-discharge for takeoff
-Li-ion Battery Pack	1	12,600	Long-duration flight energy
+EDF Motors (×8)	 8	53,760	High-thrust EDFs for sustained lift
+
+ESCs (×8)	8	 20,160	Suitable for high-current handling
+
+LiPo Battery (6S)	 1	10,080	High-discharge for takeoff
+
+
+Li-ion Battery Pack	 1	12,600	Long-duration flight energy
+
 Flexible Solar Panels	1 set	12,600	Lightweight solar skin with MPPT
-MPPT Controllers	2	4,200	Efficient solar energy harvesting
-BMS + PDS	1	5,880	Safety and power distribution
-Flight Controller	1	15,000	Pixhawk or equivalent
-Sensors & Telemetry	1 set	8,400	GPS, IMU, barometer, telemetry
-Frame Materials	1 set	10,000	Carbon fiber, structural components
+
+MPPT Controllers	 2	4,200	Efficient solar energy harvesting
+
+BMS + PDS	1	 5,880	Safety and power distribution
+
+Flight Controller	 1	15,000	Pixhawk or equivalent
+
+Sensors & Telemetry	  1set	8,400	GPS, IMU, barometer, telemetry
+
+Frame Materials	  21set	10,000	Carbon fiber, structural components
+
 Miscellaneous Wiring & Connectors	-	3,000	Electrical integration
+
 Total Estimate	-	~1.9–3.7 Lakh	Depending on final specifications
 ________________________________________
 10. Plan of Action (Step-by-Step Roadmap)
