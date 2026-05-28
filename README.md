@@ -76,7 +76,7 @@ ________________________________________
 
 Drone Design:
           
-Top view         Front view              inclined view
+Top view          
 <img width="169" height="145" alt="image" src="https://github.com/user-attachments/assets/6abebfd6-6b7a-41ef-9205-88cd69405ec8" />
 Front view
 <img width="294" height="134" alt="image" src="https://github.com/user-attachments/assets/7224ca08-8205-4a62-bfae-a165b29d01aa" />
